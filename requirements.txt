@@ -1,0 +1,6 @@
+requests
+pyfiglet
+ctypes
+pathli
+requests
+random
